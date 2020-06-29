@@ -171,6 +171,8 @@ body {
    margin-top: 5px;
 }
 
+/* ======== FOOTER ======== */
+
 footer {
    background-image: url("../img/imagen-flexbox-min.png");
    background-position: center;
@@ -195,6 +197,8 @@ footer .copy {
    font-size: 60px;
    color: #ffffff;
 }
+
+/* ======== MEDIA QUERIES ======== */
 
 @media screen and (max-width:800px){
    .menu-navegacion {
